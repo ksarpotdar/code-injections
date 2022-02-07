@@ -1,0 +1,8 @@
+.wordleCheatAnswer{
+    width: 100vw;
+    height: 15px;
+    position: fixed;
+    top: 50%;
+    text-align: center;
+    pointer-events: none;
+}
